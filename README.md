@@ -6,4 +6,3 @@ You can manage rental records by adding, editing and deleting them.
 You can also manage users by adding new users, activating/deactivating their account and reseting their password to a generic one.
 The application has a database made with Microsoft SQL Server Management Studio which containts all data regarding users and their roles,
 cars and rental records in the form of tables and their relationships.
-This is my first bigger project and I hope you like it!
