@@ -1,4 +1,4 @@
-Desktop application made with Windows Form using C# and ADO.NET.
+Desktop application made with Windows Forms using C# and ADO.NET.
 You can log in as an admin (username: admin  password:password) or as an user (username: user password:password).
 When you add a new user he has a generic password: password123. 
 You can manage cars by removing/editing/adding cars to your list.
